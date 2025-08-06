@@ -4,7 +4,7 @@ set_languages("c++17")
 set_optimize("none")
 
 
-target("pixL-paker")
+target("PixL-Paker")
     set_kind("binary")
     add_includedirs("include")
     add_files("main.cpp")
